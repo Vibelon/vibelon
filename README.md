@@ -40,8 +40,6 @@ Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQ
 - 📧 Email: 
 
 ---
-
-[![GitHub](https://img.shields.io/badge/Meu-GitHub-black.svg)](https://github.com/vibelon)
 <!--
 **Vibelon/vibelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
