@@ -12,7 +12,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg)](https://www.figma.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg)](https://getbootstrap.com/)
 
-Desenvolvedor full stack com foco em *JavaScript, **Java, **Python* e *SQL, com experiência em front-end e back-end. Também atua com desenvolvimento de jogos usando **Godot* e criação de interfaces no *Figma*. Apaixonado por tecnologia, design e boas práticas de código.
+Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQL**, com experiência em front-end e back-end. Também atua com desenvolvimento de jogos usando **Godot** e criação de interfaces no **Figma**. Apaixonado por tecnologia, design e boas práticas de código.
 
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
