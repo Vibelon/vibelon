@@ -27,6 +27,7 @@ Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+  <img src="https://www.geeky-gadgets.com/wp-content/uploads/2020/04/OpenCL-3.jpg">
 </div>
 
 ## 📈 GitHub Stats
