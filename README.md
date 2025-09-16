@@ -1,4 +1,4 @@
-# 👨‍💻 Vitor Berniz Lopes - Full Stack Developer & Game Dev
+# 👨‍💻 Vitor Berniz Lopes - Full Stack Developer
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-ED8B00.svg)](https://www.java.com/)
@@ -7,12 +7,10 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C#](https://img.shields.io/badge/C%23-239120.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/C++-00599C.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Godot](https://img.shields.io/badge/Godot-478CBF.svg)](https://godotengine.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg)](https://www.figma.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg)](https://getbootstrap.com/)
 
-Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQL**, com experiência em front-end e back-end. Também atua com desenvolvimento de jogos usando **Godot** e criação de interfaces no **Figma**. Apaixonado por tecnologia, design e boas práticas de código.
+Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQLite**, com experiência em front-end e back-end. Também atua com criação de interfaces no **Figma**. Apaixonado por tecnologia, design e boas práticas de código.
 
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
@@ -23,11 +21,8 @@ Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://www.geeky-gadgets.com/wp-content/uploads/2020/04/OpenCL-3.jpg" width="50">
 </div>
 
 ## 📈 GitHub Stats
@@ -38,7 +33,7 @@ Desenvolvedor full stack com foco em **JavaScript**, **Java**, **Python** e **SQ
 
 ## 📬 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitor-berniz-lopes-1a7b4a31a/)
-- 📧 Email: 
+- 📧 Email: Vibelo_Dev@proton.me
 
 ---
 <!--
